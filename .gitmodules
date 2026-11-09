@@ -1,0 +1,24 @@
+[submodule "github"]
+	path = github
+	url = git@github.com:naoto-anzai/github.git
+[submodule "launcher"]
+	path = launcher
+	url = git@github.com:naoto-anzai/launcher.git
+[submodule "layout-mine"]
+	path = layout-mine
+	url = git@github.com:naoto-anzai/layout-mine.git
+[submodule "machine-login"]
+	path = machine-login
+	url = git@github.com:naoto-anzai/machine-login.git
+[submodule "mods-watcher"]
+	path = mods-watcher
+	url = git@github.com:naoto-anzai/mods-watcher.git
+[submodule "ModsStoryBook"]
+	path = ModsStoryBook
+	url = git@github.com:naoto-anzai/ModsStoryBook.git
+[submodule "spaces-tree"]
+	path = spaces-tree
+	url = git@github.com:naoto-anzai/spaces-tree.git
+[submodule "tree-canvas"]
+	path = tree-canvas
+	url = git@github.com:naoto-anzai/tree-canvas.git

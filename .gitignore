@@ -1,0 +1,3 @@
+.DS_Store
+*.reset-*
+__pycache__/
