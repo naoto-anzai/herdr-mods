@@ -22,3 +22,6 @@
 [submodule "tree-canvas"]
 	path = tree-canvas
 	url = git@github.com:naoto-anzai/tree-canvas.git
+[submodule "md-viewer"]
+	path = md-viewer
+	url = git@github.com:naoto-anzai/md-viewer.git
