@@ -13,6 +13,7 @@
 | `github` | GitHub(PR など)を表示する Mod |
 | `tree-canvas` | エージェントが描く木構造を、箱と線のグラフで表示する Mod と `htree` CLI |
 | `md-viewer` | Markdown を表示する Mod(Files パネルへの反映を検討中) |
+| `file-drop` | ファイルをドロップして、見ている space のフォルダ(リモート含む)へ転送する受け口 Mod |
 | `ModsStoryBook` | 各 Mod のモック(Story)を切り替えて確認する Mod。契約は `ModsStoryBook/STORYBOOK.md` |
 | `mods-watcher` | 画面を持たない。Mod の変更を検知して Herdr に読み直させる |
 | `layout-mine` | 上記の Mod を使う個人用レイアウトと、Mod 開発用の recipe |

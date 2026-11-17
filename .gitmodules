@@ -25,3 +25,6 @@
 [submodule "md-viewer"]
 	path = md-viewer
 	url = git@github.com:naoto-anzai/md-viewer.git
+[submodule "file-drop"]
+	path = file-drop
+	url = git@github.com:naoto-anzai/file-drop.git
